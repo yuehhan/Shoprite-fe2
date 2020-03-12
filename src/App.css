@@ -38,7 +38,7 @@ body {
 .middle-section .logo {
   display: block;
   border: 1px red solid;
-  padding: 10px;
+  padding: 5px;
 }
 .middle-section .search {
   padding-left: 5%;
